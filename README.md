@@ -9,7 +9,7 @@
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: ... -->
-<a href="https://www.odinGitGmail.com"> 
+<a href="https://www.odinsam.com"> 
   <img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://github.com/odinGitGmail">
