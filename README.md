@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hello 👋🏽 , I'm OdinGitGmail ！
+<!-- Here are some ideas to get you started:
 
-<!--
-**odinGitGmail/odinGitGmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: ... -->
+<a href="https://www.odinsam.com"> 
+  <img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
+<a href="https://github.com/odinsam">
+  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **GitHub stats**
+
+[![Odinsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odinsam&count_private=true&show_icons=true&theme=graywhite)](https://github.com/Odinsam/github-readme-stats)
+
+A love of programming, cheerful character coder, like toss, love to write code, and it as a kind of life fun, a standard technology. I also like watching old movies, old TV series and energetic old coder.
+
+> **My Repo**
+
+<a href="https://github.com/odinsam/OdinMA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=OdinMA" />
+</a>
+<a href="https://github.com/odinsam/odinplugs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=odinplugs" />
+</a>
+<a href="https://github.com/odinsam/AutoCreateChangelog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=AutoCreateChangelog" />
+</a>
+<a href="https://github.com/odinsam/OdinTemplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=OdinTemplate" />
+</a>
+<a href="https://github.com/odinsam/learn-vue2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=learn-vue2.0" />
+</a>
+<a href="https://github.com/odinsam/odin-vsce-sundry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinsam&repo=odin-vsce-sundry" />
+</a>
+
+<br /><br />
+
+> **My language**
+> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinsam&layout=compact)](https://github.com/odinsam/github-readme-stats)
