@@ -26,6 +26,15 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 
 > **My Repo**
 
+<a href="https://github.com/odinGitGmail/Cola.Core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinGitGmail&repo=Cola.Core" />
+</a>
+<a href="https://github.com/odinGitGmail/Cola.ColaMiddleware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinGitGmail&repo=Cola.ColaMiddleware" />
+</a>
+<a href="https://github.com/odinGitGmail/Cola.ColaJwt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinGitGmail&repo=Cola.ColaJwt" />
+</a>
 <a href="https://github.com/odinGitGmail/Cola.ColaCache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinGitGmail&repo=Cola.ColaCache" />
 </a>
@@ -41,6 +50,7 @@ A love of programming, cheerful character coder, like toss, love to write code, 
 <a href="https://github.com/odinGitGmail/odin-vsce-sundry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=odinGitGmail&repo=odin-vsce-sundry" />
 </a>
+
 
 <br /><br />
 
